@@ -1,1 +1,4 @@
-this is the git test edited
+this is the git test
+Wuilderman David Berrios Cárdenas
+Programación de Software
+v2.0
